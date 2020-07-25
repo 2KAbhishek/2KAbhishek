@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋🏼
+
+I'm [2KAbhishek](2kabhishek.github.io), welcome to my Github profile.
+
+In an infinite loop 🔁
+- Learning 📚 
+- Making 👨🏻‍💻 
+- Exploring 🔎 
 
 <!--
 **2KAbhishek/2KAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://visitor-badge.glitch.me/badge?page_id=2KAbhihsek.2KAbhishek)
