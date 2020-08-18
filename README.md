@@ -1,8 +1,8 @@
 ### Hi there! 👋🏼
 
-I'm [2KAbhishek](2kabhishek.github.io), welcome to my Github profile.
+I'm [2KAbhishek](https://2kabhishek.github.io), welcome to my Github profile.
 
-In an infinite loop 🔁
+In an infinite loop ♾️
 - Learning 📚 
 - Making 👨🏻‍💻 
 - Exploring 🔎 
