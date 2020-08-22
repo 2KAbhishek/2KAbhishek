@@ -8,7 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=2KAbhishek&count_private=true&show_icons=true&title_colour=1688f0&bg_color=000&text_color=eee&icon_color=1688f0" /></a>
   
    <a href="mailto:iam2kabhishek@gmail.com" target="_blank">Mail </a> |
-   <a href="https://2kabhishek.github.io" target="_blank">Portfolio </a> | 
    <a href="https://2kabhishek.blogspot.com" target="_blank">Blog </a> | 
    <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a> | 
    <a href="https://twitter.com" target="_blank">Twitter </a> | 
