@@ -1,8 +1,12 @@
 <div align="center">
   <h1> Hi there! Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <h2> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io">2KAbhishek </a> </h2>
-  <h3> ♾️ I'm in an infinite loop ♾️ </h3>
-  <h3> Learning 📚  | Making 👨🏻‍💻  | Exploring 🔎 </h3>
+  <h2> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h2>
+  <h3> Learner 📚  | Maker 👨🏻‍💻  | Explorer 🔎 </h3>
+ 
+
+<a href="https://github.com/2KAbhishek">
+  <img src="https://github-readme-stats.vercel.app/api?username=2KAbhishek&count_private=true&show_icons=true&title_colour=1688f0&bg_color=000&text_color=eee&icon_color=1688f0" /></a>
+  
 </div>
 
 
