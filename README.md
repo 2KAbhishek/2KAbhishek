@@ -1,7 +1,7 @@
 <div align="center">
   <h2> Hi there! Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
   <h1> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h1>
-  <h3> Learner 📚  | Maker 👨🏻‍💻  | Explorer 🔎 </h3>
+  <h3> Developer 🌐 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 | Solver 🧠 </h3>
  
 
 <a href="https://github.com/2KAbhishek">
