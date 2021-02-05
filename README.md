@@ -17,7 +17,7 @@
    <p> 🙏🏼 If you like my work, hit <b>Follow</b> for updates 🙏🏼 </p>
    <p> ⭐ Hit <b>Star</b> if you find any of my projects helpful ⭐ </p>
    
-   <p> 🔥 Keep on <b>Coding!</b> 🔥 </p>
+   <p> <b> 🔥 Keep on Coding! 🔥 </b></p>
 </div>
 
 
