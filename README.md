@@ -13,8 +13,8 @@
    <a href="https://www.youtube.com/channel/UCTedGjRpeTc8NTbchraGIuw" target="_blank">Youtube </a> | 
    <a href="https://t.me/iam2kabhishek" target="_blank">Telegram </a>
    
-   <h4> Feel free to connect with me for any queries </h4>
-   <h5> If you like my work, hit follow for updates 🙏🏼 </h5>
+   <p> Feel free to connect with me for any queries </p>
+   <p> If you like my work, hit follow for updates 🙏🏼 </p>
    <p> Hit the ⭐ button if you find any repo useful</p>
 </div>
 
