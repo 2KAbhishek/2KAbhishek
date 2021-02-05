@@ -1,8 +1,9 @@
 <div align="center">
   
-  <h2> Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my GitHub profile! </h2>
+  <h2> Hi there, Welcome to my GitHub profile! </h2>
   <h2> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h2>
   <h4> Developer 🌐 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 | Solver 🧠 </h4>
+  
  
    <a href="mailto:iam2kabhishek@gmail.com" target="_blank">Mail </a> |
    <a href="https://2kabhishek.blogspot.com" target="_blank">Blog </a> | 
@@ -11,6 +12,10 @@
    <a href="https://instagram.com/iam2kabhishek" target="_blank">Instagram </a> | 
    <a href="https://www.youtube.com/channel/UCTedGjRpeTc8NTbchraGIuw" target="_blank">Youtube </a> | 
    <a href="https://t.me/iam2kabhishek" target="_blank">Telegram </a>
+   
+   <h4> Feel free to connect with me for any queries </h4>
+   <h5> If you like my work, hit follow for updates 🙏🏼 </h5>
+   <p> Hit the ⭐ button if you find any repo useful</p>
 </div>
 
 
