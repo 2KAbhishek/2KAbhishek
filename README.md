@@ -14,8 +14,10 @@
    <a href="https://t.me/iam2kabhishek" target="_blank">Telegram </a>
    
    <p> Feel free to connect with me for any queries </p>
-   <p> If you like my work, hit follow for updates 🙏🏼 </p>
-   <p> Hit the ⭐ button if you find any repo useful</p>
+   <p> If you like my work, hit <b>Follow</b> for updates 🙏🏼 </p>
+   <p> Hit the <b>Star ⭐</b> button if you find any repo useful</p>
+   
+   <h3> Keep on Coding! 😎 </h3>
 </div>
 
 
