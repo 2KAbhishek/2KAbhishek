@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <h2> Hi there! Welcome to my GitHub profile. </h2>
+  
+  <h2> Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my GitHub profile! </h2>
   <h2> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h2>
   <h4> Developer 🌐 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 | Solver 🧠 </h4>
  
