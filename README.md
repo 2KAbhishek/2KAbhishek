@@ -13,9 +13,9 @@
    <a href="https://www.youtube.com/channel/UCTedGjRpeTc8NTbchraGIuw" target="_blank">Youtube </a> | 
    <a href="https://t.me/iam2kabhishek" target="_blank">Telegram </a>
    
-   <p> Feel free to connect with me for any queries </p>
+   <p> Feel free to <b>Connect</b> with me for any queries 🔗 </p>
    <p> If you like my work, hit <b>Follow</b> for updates 🙏🏼 </p>
-   <p> Hit <b>Star ⭐</b> if you find any of my projects helpful</p>
+   <p> Hit <b>Star</b> if you find any of my projects helpful ⭐ </p>
    
    <h3> Keep on Coding! 😎 </h3>
 </div>
