@@ -3,10 +3,6 @@
   <h2> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h2>
   <h4> Developer 🌐 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 | Solver 🧠 </h4>
  
-
-<a href="https://github.com/2KAbhishek">
-  <img src="https://github-readme-stats.vercel.app/api?username=2KAbhishek&count_private=true&show_icons=true&title_colour=1688f0&bg_color=000&text_color=eee&icon_color=1688f0" /></a>
-  
    <a href="mailto:iam2kabhishek@gmail.com" target="_blank">Mail </a> |
    <a href="https://2kabhishek.blogspot.com" target="_blank">Blog </a> | 
    <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a> | 
@@ -19,6 +15,7 @@
 
 <!--
 **2KAbhishek/2KAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
