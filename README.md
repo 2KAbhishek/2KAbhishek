@@ -2,7 +2,7 @@
   
   <h2> Hi there, Welcome to my GitHub profile! </h2>
   <h2> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h2>
-  <h4> Developer 🌐 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 | Solver 🧠 </h4>
+   <p> <b>  Developer 🌐 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 | Solver 🧠  </b></p>
   
  
    <a href="mailto:iam2kabhishek@gmail.com" target="_blank">Mail </a> |
