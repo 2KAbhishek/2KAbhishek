@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2> Hi there! I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h2>
+  <h2> Hi there! I'm Abhishek Kumar Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h2>
    <p> <b>  Developer 🌐 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 | Solver 🧠  </b></p>
   
  
