@@ -1,10 +1,11 @@
 <div align="center">
   <h2> Hello World! </h2>
    <h3> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h3>
-   <p> <b>  Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎  </b></p>
+   <p> <b>  Software Craftsperson 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎  </b></p>
 
    <a href="mailto:iam2kabhishek@gmail.com" target="_blank">Mail </a> |
    <a href="https://2kabhishek.blogspot.com" target="_blank">Blog </a> |
+   <a href="https://dev.to/2kabhishek" target="_blank">Dev </a> |
    <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a> |
    <a href="https://twitter.com" target="_blank">Twitter </a> |
    <a href="https://www.youtube.com/channel/UCTedGjRpeTc8NTbchraGIuw" target="_blank">Youtube </a> |
