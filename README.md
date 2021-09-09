@@ -8,7 +8,7 @@
    <a href="https://dev.to/2kabhishek" target="_blank">Dev </a> |
    <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a> |
    <a href="https://twitter.com" target="_blank">Twitter </a> |
-   <a href="https://www.youtube.com/channel/UCTedGjRpeTc8NTbchraGIuw" target="_blank">Youtube </a> |
+   <a href="https://www.youtube.com/2kabhishek" target="_blank">Youtube </a> |
    <a href="https://t.me/iam2kabhishek" target="_blank">Telegram </a>
 
    <p> 👋🏼 Feel free to <b>Connect</b> with me for any queries 👋🏼 </p>
