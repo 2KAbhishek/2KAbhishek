@@ -10,13 +10,19 @@
    <a href="https://www.instagram.com/iam2kabhishek" target="_blank">Instagram </a> |
    <a href="https://www.youtube.com/2kabhishek" target="_blank">Youtube </a> |
    <a href="https://t.me/iam2kabhishek" target="_blank">Telegram </a>
+  <br>
+     <p> 👋🏼 Feel free to <b>Connect</b> with me for any queries 👋🏼 </p>
 
-   <p> 👋🏼 Feel free to <b>Connect</b> with me for any queries 👋🏼 </p>
+![Metrics](https://metrics.lecoq.io/2kabhishek?template=classic&base.header=0&base.metadata=0&languages=1&languages.ignored=css%2C%20jupyter%20notebook%2C%20html&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
    <p> 🙏🏼 If you like my work, hit <b>Follow</b> for updates 🙏🏼 </p>
    <p> ⭐ Hit <b>Star</b> if you find any of my repos helpful ⭐ </p>
-
    <p> <b> 🔥 Keep on Coding! 🔥 </b></p>
 </div>
+
+
+
+
+
 
 <!--
 - 🔭 I’m currently working on ...
