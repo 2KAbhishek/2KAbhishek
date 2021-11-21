@@ -1562,18 +1562,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 146 edited files from 69 commits over last 14 days
+            estimation from 145 edited files from 68 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.73268145553607" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="329.73268145553607" y="0" width="85.38845106051761" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="415.1211325160537" y="0" width="40.58231173380035" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="455.70344424985404" y="0" width="3.328711811636505" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.0321560614906" y="0" width="0.9678439385094376" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.66927869171616" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="329.66927869171616" y="0" width="85.43001070768034" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="415.0992893993965" y="0" width="40.60206366202667" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="455.7013530614232" y="0" width="3.3303319380901395" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.03168499951335" y="0" width="0.9683150004867127" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
