@@ -11,10 +11,9 @@
    <a href="https://www.instagram.com/iam2kabhishek" target="_blank">Instagram </a> |
    <a href="https://www.youtube.com/2kabhishek" target="_blank">Youtube </a>
   <br>
-   <p> 👋🏼 Feel free to <b>Connect</b> with me for any queries 👋🏼 </p>
   
   ![Metrics](https://github.com/2kabhishek/2kabhishek/blob/main/github-metrics.svg)
-  
+   <p> 🤝 Feel free to <b>Connect</b> with me for any queries 🤝 </p>
    <p> 🙏🏼 If you like my work, hit <b>Follow</b> for updates 🙏🏼 </p>
    <p> ⭐ Hit <b>Star</b> if you find any of my repos helpful ⭐ </p>
    <p> <b> 🔥 Keep on Coding! 🔥 </b></p>
