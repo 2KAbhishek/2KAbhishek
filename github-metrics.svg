@@ -1562,26 +1562,22 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 139 edited files from 160 commits over last 14 days
+            estimation from 136 edited files from 150 commits over last 12 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.7753141167775" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="337.7753141167775" y="0" width="79.89652623798965" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="417.6718403547672" y="0" width="28.643754619364376" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="446.31559497413156" y="0" width="13.68440502586844" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.9421250276121" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="405.9421250276121" y="0" width="34.24342831897504" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="440.18555334658714" y="0" width="11.38060525734482" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.56615860393197" y="0" width="8.433841396068036" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Hack
-              </div>
-                    <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                SCSS
               </div>
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
@@ -1590,6 +1586,10 @@
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 JavaScript
+              </div>
+                    <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                SCSS
               </div>
                 </div>
             </section>
