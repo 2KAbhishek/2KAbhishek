@@ -230,28 +230,22 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 141 edited files from 77 commits over last 14 days</small>
+                <small>estimation from 105 edited files from 72 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="137.72455089820357" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="137.72455089820357" y="0" width="72.6732835698466" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="210.39783446805018" y="0" width="62.97596587646625" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="273.37380034451644" y="0" width="55.4294151423181" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="328.8032154868346" y="0" width="51.241079484865885" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="380.0442949717005" y="0" width="45.996226724632926" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="426.04052169633337" y="0" width="22.564186695102944" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.6047083914363" y="0" width="11.395291608563696" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="102.98268046030455" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="102.98268046030455" y="0" width="89.24096245495757" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="192.22364291526213" y="0" width="78.54701848192491" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="270.77066139718704" y="0" width="72.61187957689178" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="343.38254097407884" y="0" width="65.17958851563408" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="408.5621294897129" y="0" width="31.974892479367664" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.53702196908057" y="0" width="16.147855399279322" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.6848773683599" y="0" width="3.315122631640125" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Ruby
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -293,6 +287,12 @@
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Java
                     </div>
                 </div>
             </section>
