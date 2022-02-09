@@ -231,17 +231,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 156 edited files from 42 commits over last 14 days</small>
+                <small>estimation from 147 edited files from 36 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="331.25710243479455" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="331.25710243479455" y="0" width="92.11966319056202" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="423.37676562535654" y="0" width="17.603085137941264" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.9798507632978" y="0" width="17.130730438354288" height="8" fill="#76d275"/>
-                    <rect mask="url(#languages-bar)" x="458.1105812016521" y="0" width="1.8894187983478996" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.6233302018651" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="332.6233302018651" y="0" width="92.49959901931581" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="425.1229292211809" y="0" width="17.67568682262906" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.79861604380994" y="0" width="17.201383956189996" height="8" fill="#76d275"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -267,12 +266,6 @@
                             <path fill="#76d275" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Starlark
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
                     </div>
                 </div>
             </section>
