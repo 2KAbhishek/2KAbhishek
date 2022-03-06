@@ -13,8 +13,8 @@
   <br>
   
   ![Metrics](https://github.com/2kabhishek/2kabhishek/blob/main/github-metrics.svg)
-   <p> 🤝 Feel free to <b>Connect</b> with me for any queries 🤝 </p>
+   <p> I build to make my life easier, to learn or just for fun! </p>
    <p> 🙏🏼 If you like my work, hit <b>Follow</b> for updates 🙏🏼 </p>
-   <p> ⭐ Hit <b>Star</b> if you find any of my repos helpful ⭐ </p>
+   <p> ⭐ Hit <b>Star</b> if you find any of my repos useful ⭐ </p>
    <p> <b> 🔥 Keep on Coding! 🔥 </b></p>
 </div>
