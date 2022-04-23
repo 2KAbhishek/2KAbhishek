@@ -11,7 +11,7 @@
    <a href="https://www.instagram.com/iam2kabhishek" target="_blank">Instagram </a> |
    <a href="https://www.youtube.com/2kabhishek" target="_blank">Youtube </a>
   <br>
-   <p> I code to make my life easier, to learn or just for fun! </p> 
+   <p> I code to make lives easier, to learn or just for fun! </p> 
    <p> 🙏🏼 If you like my work, hit <b>Follow</b> for updates 🙏🏼 </p>
    <p> ⭐ Hit <b>Star</b> if you find any of my repos useful ⭐ </p>
   
