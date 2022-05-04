@@ -17,7 +17,7 @@ jobs:
           # Options
           user: 2kabhishek
           template: classic
-          base: ""
+          base: activity, community
           config_timezone: Asia/Calcutta
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
