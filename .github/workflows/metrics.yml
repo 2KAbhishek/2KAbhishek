@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule updates (each day)
   schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
@@ -35,8 +35,3 @@ jobs:
           commits_authoring: Abhishek Keshri, 2kabhishek, 2kabhishek@users.noreply.github.com
           plugin_languages_details: lines, percentage
           plugin_languages_other: no
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_attachments: yes
-          plugin_tweets_user: 2kabhishek
-          plugin_tweets_limit: 3
