@@ -9,6 +9,6 @@
    ![Metrics](https://github.com/2kabhishek/2kabhishek/blob/main/github-metrics.svg)
 
    ![Tweets](https://github.com/2kabhishek/2kabhishek/blob/main/tweets.svg)
-   ✨ If you like my work, hit <b>Follow</b> for updates ✨
+    If you like my work, hit <b>✨ Follow ✨</b> for updates 
    <p> <b> 🔥 Keep making noises with your keyboard! 🔥 </b></p>
 </div>
