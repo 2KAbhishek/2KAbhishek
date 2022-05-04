@@ -34,4 +34,9 @@ jobs:
           plugin_languages_indepth: yes
           commits_authoring: Abhishek Keshri, 2kabhishek, 2kabhishek@users.noreply.github.com
           plugin_languages_details: lines, percentage
-          plugin_languages_other: yes
+          plugin_languages_other: no
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_attachments: yes
+          plugin_tweets_user: 2kabhishek
+          plugin_tweets_limit: 3
