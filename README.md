@@ -17,4 +17,5 @@
   
   ![Metrics](https://github.com/2kabhishek/2kabhishek/blob/main/github-metrics.svg)
    <p> <b> 🔥 Keep on Coding! 🔥 </b></p>
+  ![Tweets](https://github.com/2kabhishek/2kabhishek/blob/main/tweets.svg)
 </div>
