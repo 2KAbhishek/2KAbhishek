@@ -1,4 +1,4 @@
-name: Latest tweets including attachments
+name: Fetch Latest Tweets
 on:
   # Schedule updates (every 6 hours)
   schedule: [{cron: "0 */6 * * *"}]
