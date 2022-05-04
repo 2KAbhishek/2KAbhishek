@@ -1,0 +1,20 @@
+name: Latest tweets including attachments
+on:
+  # Schedule updates (every 6 hours)
+  schedule: [{cron: "0 */6 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+
+uses: lowlighter/metrics@latest
+with:
+  filename: tweets.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_tweets: yes
+  plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+  plugin_tweets_attachments: yes
+  plugin_tweets_user: 2kabhishek
+  plugin_tweets_limit: 3
+ 
