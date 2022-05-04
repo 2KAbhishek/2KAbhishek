@@ -7,7 +7,6 @@
    <p> I code to make lives easier, to learn and for fun! </p>
 
    ![Metrics](https://github.com/2kabhishek/2kabhishek/blob/main/github-metrics.svg) ![Tweets](https://github.com/2kabhishek/2kabhishek/blob/main/tweets.svg)
-  
   <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
-   <p> <b> 🔥 Keep making noises with your keyboard! 🔥 </b></p>
+  <p> <b> 🔥 Keep making noises with your keyboard! 🔥 </b></p>
 </div>
