@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="384" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,14 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            Bura na mano recession hai! 🥹
+                            <br />
+                            <br />
+                            <span class="hashtag">#RupeeVsDollar</span>
+                            <span class="hashtag">#stockmarketcrash</span>
+                            <div class="date">04:29:37 on 11 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             Debian was first announced on August 16, 1993, by Ian Murdock.
                             <br />
                             <br />
@@ -41,11 +49,6 @@
                             <span class="mention">@njong_emy</span>
                             Not really, I write for myself, just a log of thoughts for future me :)
                             <div class="date">15:29:04 on 10 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@sapanparikh18</span>
-                            Wondering what PHP, Bash and Perl would look like 😂😂
-                            <div class="date">15:21:06 on 10 May 2022</div>
                         </div>
                     </section>
                 </div>
