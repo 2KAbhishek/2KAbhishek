@@ -6,7 +6,7 @@
    <a href="mailto:iam2kabhishek@gmail.com" target="_blank">Mail </a> | <a href="https://2kabhishek.github.io" target="_blank">Portfolio </a> | <a href="https://2kabhishek.blogspot.com" target="_blank">Blog </a> | <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a> | <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a> | <a href="https://www.instagram.com/iam2kabhishek" target="_blank">Instagram </a> | <a href="https://www.youtube.com/2kabhishek" target="_blank">Youtube </a>
    <p> I code to make lives easier, to learn and for fun! </p>
 
-   ![Metrics](https://github.com/2kabhishek/2kabhishek/blob/main/github-metrics.svg) ![Tweets](https://github.com/2kabhishek/2kabhishek/blob/main/tweets.svg)
+   ![Metrics](https://github.com/2kabhishek/2kabhishek/blob/main/github-metrics.svg) 
   <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
   <p> <b> 🔥 Keep making noises with your keyboard! 🔥 </b></p>
 </div>
