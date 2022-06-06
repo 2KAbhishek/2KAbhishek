@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="334" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,10 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            I am a symmathecist in the medium of software.
+                            <div class="date">08:51:31 on 6 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             You never get what you ask for.
                             <br />
                             You only get what you work for.
@@ -39,11 +43,6 @@
                             <br />
                             *Avoids eye contact, leaves ASAP!* 🤐
                             <div class="date">05:28:40 on 3 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Amritanjali16</span>
-                            I don't see Microsoft's logo anywhere, looks like an Indian thali 🤭
-                            <div class="date">05:20:17 on 3 Jun 2022</div>
                         </div>
                     </section>
                 </div>
