@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@snifhex</span>
+                            4th highest dot. 🫡
+                            <div class="date">12:35:57 on 22 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             You need to know hunger, to appreciate the value of a meal.
                             <br />
                             <br />
@@ -48,11 +53,6 @@
                                 </div>
                             </div>
                             <div class="date">18:03:04 on 21 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@sapanparikh18</span>
-                            That's a quarter of my GitHub repos 😆
-                            <div class="date">17:12:00 on 21 Jun 2022</div>
                         </div>
                     </section>
                 </div>
