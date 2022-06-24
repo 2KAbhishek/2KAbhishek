@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="367" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="384" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,22 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@abdulkalam1233</span>
+                            Man, I got soo many things:
+                            <br />
+                            - The UI/UX is horrible and very slow
+                            <br />
+                            - It puts way too much focus on managing issues
+                            <br />
+                            - Searching is super slow
+                            <br />
+                            - Adding n number of boards with n number of fiellds, just in the name of management
+                            <br />
+                            <br />
+                            A well managed csv with proper field names is ⏭️‼️
+                            <div class="date">12:08:57 on 24 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             Unpopular Opinion:
                             <br />
                             <br />
@@ -32,16 +48,6 @@
                             <span class="mention">@snifhex</span>
                             4th highest dot. 🫡
                             <div class="date">12:35:57 on 22 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            You need to know hunger, to appreciate the value of a meal.
-                            <br />
-                            <br />
-                            You need to know financial struggle, to appreciate the value of a stable income.
-                            <br />
-                            <br />
-                            Apply this to anything, scarcity teaches us the real value of things we take for granted in life.
-                            <div class="date">19:25:30 on 21 Jun 2022</div>
                         </div>
                     </section>
                 </div>
