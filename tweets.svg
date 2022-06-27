@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="267" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@EddyVinckk</span>
+                            If the learning curve is your concern then you may want to check out Zustand, it's a joy to use.
+                            <div class="date">03:00:46 on 27 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@sapanparikh18</span>
                             :
@@ -40,16 +45,6 @@
                             <span class="mention">@intellijidea</span>
                             have a transcribe feature??
                             <div class="date">17:00:54 on 25 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Ummedon ka ujaala hai
-                            <br />
-                            Nakamiyo ka hai andhera bhi
-                            <br />
-                            Hasta rota hai roz naye rango me
-                            <br />
-                            Zindagi ka falsafa hai ye mera hi
-                            <div class="date">16:34:15 on 25 Jun 2022</div>
                         </div>
                     </section>
                 </div>
