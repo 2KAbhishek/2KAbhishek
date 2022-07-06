@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="368" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,18 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@abdulkalam1233</span>
+                            By the number of ✅ on my todo list.
+                            <div class="date">04:52:43 on 6 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
+                            Early mornings and late nights are the most productive for me. (Not on the same day!)
+                            <br />
+                            <br />
+                            If I could maintain even a spec of that the entire day, there would be no such thing as a backlog.
+                            <div class="date">04:51:59 on 6 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             Biggest weakness:
                             <br />
                             Wearing my heart on my sleeve.
@@ -31,15 +43,6 @@
                             <br />
                             Same
                             <div class="date">19:22:39 on 1 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@sapanparikh18</span>
-                            I wonder how well background blurring will work with that 😆
-                            <div class="date">19:21:29 on 1 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            If it's too good to be true, it's most probably fake.
-                            <div class="date">06:27:18 on 30 Jun 2022</div>
                         </div>
                     </section>
                 </div>
