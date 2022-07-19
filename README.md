@@ -10,4 +10,12 @@
 
   <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
   <p> <b> 🔥 Keep making noises with your keyboard! 🔥 </b></p>
+  
+  <details>
+    <summary><i> 🪄 Click here for a Magic trick! 🪄 </i></summary>
+    <br>
+      Aha! I tricked you into clicking 😋
+    <br><br>
+      Now can you hit the <b>✨ Follow ✨</b> button too please 🫣
+  </details>
 </div>
