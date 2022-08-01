@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="502" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="504" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,14 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            Yay! Thanks
+                            <span class="mention">@Reddit</span>
+                            ✨
+                            <br />
+                            <a href="https://t.co/qugzqQKQ5l" class="link">twitter.com/WebdevDiscu/st…</a>
+                            <div class="date">17:10:13 on 1 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             When your article shows up on your Google feed! 🤭🤩
                             <br />
                             <a href="https://t.co/W7DG3dkRPT" class="link">pic.twitter.com/W7DG3dkRPT</a>
@@ -36,12 +44,6 @@
                             <span class="mention">@saam_codes</span>
                             I can turn my imagination into reality! 👨‍💻
                             <div class="date">05:02:33 on 1 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Finally, someone said it! 🤣
-                            <br />
-                            <a href="https://t.co/AZZzEiD2qN" class="link">twitter.com/codewithibrahi…</a>
-                            <div class="date">10:01:26 on 31 Jul 2022</div>
                         </div>
                     </section>
                 </div>
