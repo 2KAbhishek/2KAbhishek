@@ -22,6 +22,13 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@ShaikMoAbdullah</span>
+                            <span class="mention">@ThePracticalDev</span>
+                            <span class="mention">@github</span>
+                            Thanks man!
+                            <div class="date">18:34:43 on 1 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             Yay! Thanks
                             <span class="mention">@Reddit</span>
                             ✨
@@ -39,11 +46,6 @@
                                 </div>
                             </div>
                             <div class="date">06:17:32 on 1 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@saam_codes</span>
-                            I can turn my imagination into reality! 👨‍💻
-                            <div class="date">05:02:33 on 1 Aug 2022</div>
                         </div>
                     </section>
                 </div>
