@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="384" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,29 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@AgreeecoNOmist</span>
+                            <span class="mention">@BatsouElef</span>
+                            You can learn everything from
+                            <span class="mention">@freeCodeCamp</span>
+                            <br />
+                            Start with responsive web design and continue working on your skills!
+                            <div class="date">10:45:14 on 11 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@BatsouElef</span>
+                            Python is the easiest and versatile as well, reasons:
+                            <br />
+                            <br />
+                            * Simple english like syntax
+                            <br />
+                            * Easy to use REPL
+                            <br />
+                            * Super easy installation
+                            <br />
+                            * Lots of resources!
+                            <div class="date">06:58:38 on 11 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@AjayAnuragi_</span>
                             <span class="mention">@gigi_theandreae</span>
                             Oh lol, I made a typo
@@ -31,19 +54,6 @@
                             <br />
                             <a href="https://t.co/o8YMOjwQkP" class="link">2kabhishek.github.io</a>
                             <div class="date">02:30:39 on 11 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Solo trip no. 0!!  🛣️💙
-                            <div class="date">02:27:03 on 11 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@gigi_theandreae</span>
-                            Here's mine,
-                            <a href="https://t.co/gP5qN4udrv" class="link">2kabhishek.githib.io</a>
-                            a fairly simple one, that has stood the test of time for me!
-                            <br />
-                            <a href="https://t.co/gP5qN4udrv" class="link">2kabhishek.githib.io</a>
-                            <div class="date">15:54:09 on 10 Aug 2022</div>
                         </div>
                     </section>
                 </div>
