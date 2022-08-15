@@ -22,6 +22,12 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@lexfridman</span>
+                            : I try to assume the best intention in the actions of others. The internet too often seems to want to do the opposite. I thi…
+                            <div class="date">08:33:54 on 15 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@jasonalba</span>
                             /home/abhishek 😆
                             <div class="date">05:14:10 on 15 Aug 2022</div>
@@ -39,10 +45,6 @@
                             <span class="hashtag">#IndependenceDay</span>
                             <span class="hashtag">#IndiaAt75</span>
                             <div class="date">04:47:30 on 15 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            If the only reason for you to do something is external validation or appreciation, then don't do it.
-                            <div class="date">14:57:39 on 14 Aug 2022</div>
                         </div>
                     </section>
                 </div>
