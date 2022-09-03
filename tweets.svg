@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@DThompsonDev</span>
+                            I google it
+                            <div class="date">09:15:40 on 3 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
                             You are lost only if you stop walking.
                             <br />
                             You are broken only if you stop healing.
@@ -35,12 +40,6 @@
                             <br />
                             Reading the error message!
                             <div class="date">11:12:37 on 1 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@joshmedeski</span>
-                            <span class="mention">@hhthacker</span>
-                            neovim, tmux and a tiling window manager!
-                            <div class="date">07:12:15 on 31 Aug 2022</div>
                         </div>
                     </section>
                 </div>
