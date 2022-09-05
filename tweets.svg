@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@eddiejaoude</span>
+                            As they say, Imitation is the best form of flattery.
+                            <div class="date">11:51:43 on 5 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
                             We are living in strange times, the world is far more "connected" than it ever was, yet most people are "alone" in thier struggles.
                             <div class="date">18:39:09 on 3 Sept 2022</div>
                         </div>
@@ -37,11 +42,6 @@
                             <br />
                             <a href="https://t.co/jyjWzeDIDP" class="link">twitter.com/BloombergUK/st…</a>
                             <div class="date">12:46:23 on 3 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@DThompsonDev</span>
-                            I google it
-                            <div class="date">09:15:40 on 3 Sept 2022</div>
                         </div>
                     </section>
                 </div>
