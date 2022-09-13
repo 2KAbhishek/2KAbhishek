@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="267" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Parvathi_G</span>
+                            Wow, that's a long time!
+                            <div class="date">20:53:29 on 12 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@alexbunardzic</span>
                             Any cuisine that comes to India, gets Indianized!
                             <br />
@@ -31,10 +36,6 @@
                         <div class="tweet">
                             I don't do calls, unless it's to an API.
                             <div class="date">04:28:37 on 10 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Now who started this rumour that everyone in Bangalore loves "floating points". 🤐
-                            <div class="date">15:44:12 on 8 Sept 2022</div>
                         </div>
                     </section>
                 </div>
