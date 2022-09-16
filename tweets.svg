@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" class="">
     <defs>
         <style/>
     </defs>
@@ -22,32 +22,19 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            It's Friday afternoon and I'm working with Regex 😵‍💫
+                            <div class="date">08:06:28 on 16 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@snifhex</span>
+                            You should move to the mountains then 😆
+                            <div class="date">07:08:52 on 16 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
                             Well, how the turn tables 😆😆
                             <br />
                             <a href="https://t.co/CfPzuueA6V" class="link">twitter.com/ProductHunt/st…</a>
                             <div class="date">17:43:00 on 15 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@sapanparikh18</span>
-                            <span class="mention">@snifhex</span>
-                            <span class="mention">@Incubyte_co</span>
-                            I think it still is 😆
-                            <div class="date">16:01:25 on 15 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@snifhex</span>
-                            <span class="mention">@sapanparikh18</span>
-                            <span class="mention">@Incubyte_co</span>
-                            I have been looking into ansible for similar reasons, but I found it to be overkill for setting up a dev environment.
-                            <br />
-                            <br />
-                            Let me know how it goes for you.
-                            <br />
-                            Also there are lighter tools that can solve the same problem like stow, yadf etc.
-                            <br />
-                            <br />
-                            I'll stick to my trusty bash though! 🐚
-                            <div class="date">15:58:52 on 15 Sept 2022</div>
                         </div>
                     </section>
                 </div>
