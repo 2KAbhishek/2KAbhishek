@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="317" class="">
     <defs>
         <style/>
     </defs>
@@ -22,20 +22,28 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@sapanparikh18</span>
+                            <span class="mention">@sandromancuso</span>
+                            Agreed! 💯
+                            <div class="date">10:29:54 on 28 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
+                            Saw an ad for
+                            <span class="mention">@YouTube</span>
+                            shorts, on
+                            <span class="mention">@instagram</span>
+                            reels, how weird is that.
+                            <br />
+                            <br />
+                            Isn't this promoting your own competition? 😆
+                            <div class="date">06:42:14 on 28 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
                             Today I complete 2 years of staring at screens and making noises on keyboards as a profession.
                             <br />
                             <br />
                             And I've got a long long road ahead. 💛
                             <div class="date">03:40:09 on 28 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            It's the seeking that defines you, not the finding.
-                            <div class="date">13:00:39 on 26 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@xtremepentest</span>
-                            For me it was Fedora
-                            <div class="date">21:35:55 on 25 Sept 2022</div>
                         </div>
                     </section>
                 </div>
