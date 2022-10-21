@@ -144,15 +144,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 28.5kb of code in 77 edited files across 49 commits over last 12 days</small>
+                <small>estimation from 45.8kb of code in 106 edited files across 56 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.47056704049004" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="304.47056704049004" y="0" width="130.79223528352026" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="435.2628023240103" y="0" width="24.737197675989734" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.05573770491804" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="277.05573770491804" y="0" width="160.4344262295082" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.4901639344262" y="0" width="22.50983606557377" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -165,7 +165,7 @@
                             </div>
                             <small>
                                 <div>424 lines</div>
-                                <div>66.19%</div>
+                                <div>60.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -177,7 +177,7 @@
                             </div>
                             <small>
                                 <div>23 lines</div>
-                                <div>5.38%</div>
+                                <div>4.89%</div>
                             </small>
                         </div>
                     </section>
@@ -190,8 +190,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>270 lines</div>
-                                <div>28.43%</div>
+                                <div>350 lines</div>
+                                <div>34.88%</div>
                             </small>
                         </div>
                     </section>
