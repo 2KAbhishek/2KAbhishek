@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="450" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,10 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            Anticipation is exciting.
+                            <div class="date">12:55:10 on 23 Oct 2022</div>
+                        </div>
+                        <div class="tweet">
                             Programming Languages are tools that developers use to communicate with machines AND with other developers across time and space.
                             <div class="date">03:16:07 on 22 Oct 2022</div>
                         </div>
@@ -39,16 +43,6 @@
                             <span class="mention">@ParikhRushali</span>
                             💖
                             <div class="date">03:11:13 on 22 Oct 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Your salary isn't the ultimate benchmark of value at an organisation.
-                            <br />
-                            <br />
-                            It has more to do with how well you are treated, whether your opinions are being considered before making decisions.
-                            <br />
-                            <br />
-                            If you truly feel valued with your team, you don't need a paycheck to tell you the same.
-                            <div class="date">11:13:06 on 21 Oct 2022</div>
                         </div>
                     </section>
                 </div>
