@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="367" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
     <defs>
         <style/>
     </defs>
@@ -23,6 +23,14 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@MentorsWB</span>
+                            : Congratulations to Abraham Ndiwa from
+                            <span class="mention">@learning_lions</span>
+                            who started working as a freelance programmer after he completed the M…
+                            <div class="date">01:50:51 on 31 Oct 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@kunalb11</span>
                             : Elon and Zuck are two examples of risking it all several times with high stakes of reputation and wealth with a real possibil…
                             <div class="date">19:41:17 on 28 Oct 2022</div>
@@ -32,16 +40,6 @@
                             <span class="mention">@sapanparikh18</span>
                             Open up twitter, right click and close all tabs! 😌
                             <div class="date">06:15:38 on 27 Oct 2022</div>
-                        </div>
-                        <div class="tweet">
-                            This is not about hating on any interview process.
-                            <br />
-                            <br />
-                            If XYZ company has come up with a secret handshake for their interview process and want to work there, by all means, go ahead and learn the handshake.
-                            <br />
-                            <br />
-                            But do not believe, that it is the primary skill of a software developer.
-                            <div class="date">06:07:39 on 27 Oct 2022</div>
                         </div>
                     </section>
                 </div>
