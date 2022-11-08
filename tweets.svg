@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" class="">
     <defs>
         <style/>
     </defs>
@@ -22,21 +22,19 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@abdulkalam1233</span>
+                            Me too 😆😆
+                            <div class="date">11:43:51 on 8 Nov 2022</div>
+                        </div>
+                        <div class="tweet">
+                            I get more DMs on LinkedIn than Instagram, Twitter and WhatsApp combined 😐
+                            <div class="date">11:37:24 on 8 Nov 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@ThePrimeagen</span>
                             : if your pr is larger than 150 lines, i think your ci should auto fail it
                             <div class="date">18:49:09 on 7 Nov 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Good Luck is when opportunity meets preparation, while bad luck is when lack of preparation meets reality.
-                            <br />
-                            <br />
-                            - Eliyahu M. Goldratt.
-                            <div class="date">17:49:36 on 7 Nov 2022</div>
-                        </div>
-                        <div class="tweet">
-                            I'd rather have 100 rejections than 1 regret
-                            <div class="date">18:47:17 on 4 Nov 2022</div>
                         </div>
                     </section>
                 </div>
