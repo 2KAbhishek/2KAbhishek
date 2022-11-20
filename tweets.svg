@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@ThePrimeagen</span>
+                            Any plans for a lua rewrite of neovim config?
+                            <div class="date">14:51:42 on 20 Nov 2022</div>
+                        </div>
+                        <div class="tweet">
                             Things eventually fall into the right place in life sometimes.
                             <br />
                             Sometimes is now. 💙
@@ -32,15 +37,6 @@
                             <span class="mention">@lexfridman</span>
                             vim or bust! 🔥
                             <div class="date">18:59:55 on 17 Nov 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Consistent efforts will bring results, sooner or later.
-                            <br />
-                            Having a hint of passion behind your efforts is the key to overcome "later".
-                            <br />
-                            <br />
-                            Passion for your craft will keep you going during the hardest times.
-                            <div class="date">18:37:39 on 16 Nov 2022</div>
                         </div>
                     </section>
                 </div>
