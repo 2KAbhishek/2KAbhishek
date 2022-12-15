@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@sudobunni</span>
+                            Because it has great lsp support with neovim 🙂
+                            <div class="date">12:52:07 on 15 Dec 2022</div>
+                        </div>
+                        <div class="tweet">
                             Proud winner of the F.A.U.X award in the First Responder category
                             <span class="mention">@Incubyte_co</span>
                             !! 💙
@@ -37,10 +42,6 @@
                         <div class="tweet">
                             Been away from my monitor for 2 weeks, and damn 32 inch never looked bigger 😂
                             <div class="date">06:00:21 on 14 Dec 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Nothing beats the comfort and safety of one's home.
-                            <div class="date">05:58:53 on 14 Dec 2022</div>
                         </div>
                     </section>
                 </div>
