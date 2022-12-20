@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="821" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="838" class="">
     <defs>
         <style/>
     </defs>
@@ -20,6 +20,12 @@
                                 <path fill-rule="evenodd" d="M4.75 2.37a6.5 6.5 0 006.5 11.26.75.75 0 01.75 1.298 8 8 0 113.994-7.273.754.754 0 01.006.095v1.5a2.75 2.75 0 01-5.072 1.475A4 4 0 1112 8v1.25a1.25 1.25 0 002.5 0V7.867a6.5 6.5 0 00-9.75-5.496V2.37zM10.5 8a2.5 2.5 0 10-5 0 2.5 2.5 0 005 0z"/>
                             </svg>
                             2kabhishek
+                        </div>
+                        <div class="tweet">
+                            RT
+                            <span class="mention">@NASAInSight</span>
+                            : My power’s really low, so this may be the last image I can send. Don’t worry about me though: my time here has been both p…
+                            <div class="date">10:59:47 on 20 Dec 2022</div>
                         </div>
                         <div class="tweet">
                             Personal achievement,
@@ -57,11 +63,6 @@
                                 </div>
                             </div>
                             <div class="date">06:29:19 on 16 Dec 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@sudobunni</span>
-                            Because it has great lsp support with neovim 🙂
-                            <div class="date">12:52:07 on 15 Dec 2022</div>
                         </div>
                     </section>
                 </div>
