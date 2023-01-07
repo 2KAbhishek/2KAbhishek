@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="536" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="486" class="">
     <defs>
         <style/>
     </defs>
@@ -23,6 +23,16 @@
                         </div>
                         <div class="tweet">
                             <span class="mention">@trashh_dev</span>
+                            Haha, thanks, have spent hundreds of hours on these 😆
+                            <div class="date">08:07:51 on 7 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@visrut06815925</span>
+                            I got a ton of things to do 🥲
+                            <div class="date">08:06:37 on 7 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@trashh_dev</span>
                             my dots:
                             <a href="https://t.co/azRnIaIW9p" class="link">github.com/2kabhishek/Dot…</a>
                             <br />
@@ -37,18 +47,6 @@
                                 </div>
                             </div>
                             <div class="date">16:36:33 on 6 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@ThePrimeagen</span>
-                            You used neovim to make this? 🌚
-                            <div class="date">16:34:39 on 6 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            Local police department at my little hometown is doing a drive to raise awareness against cyber crime. 🥹🥰
-                            <br />
-                            <br />
-                            Super proud!
-                            <div class="date">09:38:18 on 6 Jan 2023</div>
                         </div>
                     </section>
                 </div>
