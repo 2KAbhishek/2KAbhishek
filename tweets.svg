@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="267" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@trashh_dev</span>
+                            Cracking up in there sounds dangerous, that's why it is in a no Wi-Fi zone at my place 🤣
+                            <div class="date">08:51:01 on 8 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
                             It's a weird world out there,
                             <br />
                             The things you chase after, will keep running away
@@ -33,11 +38,6 @@
                             <span class="mention">@trashh_dev</span>
                             Haha, thanks, have spent hundreds of hours on these 😆
                             <div class="date">08:07:51 on 7 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@visrut06815925</span>
-                            I got a ton of things to do 🥲
-                            <div class="date">08:06:37 on 7 Jan 2023</div>
                         </div>
                     </section>
                 </div>
