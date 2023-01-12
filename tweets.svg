@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@joshmedeski</span>
+                            Hoping to see a Linux build soon!
+                            <div class="date">16:16:18 on 12 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@trashh_dev</span>
                             Cracking up in there sounds dangerous, that's why it is in a no Wi-Fi zone at my place 🤣
                             <div class="date">08:51:01 on 8 Jan 2023</div>
@@ -33,11 +38,6 @@
                             <br />
                             Things you wanna get rid of, will never stop chasing
                             <div class="date">19:38:26 on 7 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@trashh_dev</span>
-                            Haha, thanks, have spent hundreds of hours on these 😆
-                            <div class="date">08:07:51 on 7 Jan 2023</div>
                         </div>
                     </section>
                 </div>
