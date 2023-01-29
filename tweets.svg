@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@sapanparikh18</span>
+                            haha yes!  🤣🤣
+                            <div class="date">03:18:34 on 29 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
                             To me BharOS looks just like a custom ROM, that's based on Android AOSP and doesn't include GApps.
                             <br />
                             <br />
@@ -34,11 +39,6 @@
                         <div class="tweet">
                             Estimation and Naming things are the hardest part of being a Software Developer
                             <div class="date">17:00:44 on 25 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@sapanparikh18</span>
-                            Leaning towards the second option 🥲😆
-                            <div class="date">16:59:49 on 25 Jan 2023</div>
                         </div>
                     </section>
                 </div>
