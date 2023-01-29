@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="334" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,10 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            Not everything you lose is bound to be a loss.
+                            <div class="date">12:06:40 on 29 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@sapanparikh18</span>
                             haha yes!  🤣🤣
                             <div class="date">03:18:34 on 29 Jan 2023</div>
@@ -35,10 +39,6 @@
                             <br />
                             The hype is being blown out of proportions tbh.
                             <div class="date">12:17:14 on 28 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            Estimation and Naming things are the hardest part of being a Software Developer
-                            <div class="date">17:00:44 on 25 Jan 2023</div>
                         </div>
                     </section>
                 </div>
