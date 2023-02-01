@@ -22,6 +22,12 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@ashishsunny64</span>
+                            <span class="mention">@Apple</span>
+                            Thanks man!
+                            <div class="date">21:55:18 on 31 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
                             Valentine's came early!
                             <br />
                             Thanks
@@ -39,11 +45,6 @@
                         <div class="tweet">
                             Not everything you lose is bound to be a loss.
                             <div class="date">12:06:40 on 29 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@sapanparikh18</span>
-                            haha yes!  🤣🤣
-                            <div class="date">03:18:34 on 29 Jan 2023</div>
                         </div>
                     </section>
                 </div>
