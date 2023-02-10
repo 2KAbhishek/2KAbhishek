@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,10 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            Bahubali was just an expensive remake of Lion King without Timon and Pumba.
+                            <div class="date">06:34:04 on 10 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
                             Unpopular Opinion:
                             <br />
                             You don't need coffee to code.
@@ -30,13 +34,6 @@
                         <div class="tweet">
                             You only understand the power of TDD if you allow yourself to be fully immersed into its flow!
                             <div class="date">19:00:52 on 8 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            SOLID DRY KISS
-                            <br />
-                            <br />
-                            *traits of good software*
-                            <div class="date">08:06:04 on 8 Feb 2023</div>
                         </div>
                     </section>
                 </div>
