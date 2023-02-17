@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
     <defs>
         <style/>
     </defs>
@@ -22,19 +22,19 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@kunalb11</span>
+                            Devotion = Passion+ Continued and Directed Efforts
+                            <div class="date">07:24:35 on 17 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
+                            A good software engineer is a lot more than just their technical skills, it also depends on their verbal and written communication skills, being able to work with a team and organisational skills.
+                            <div class="date">07:23:18 on 17 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@sapanparikh18</span>
                             <span class="mention">@sandromancuso</span>
                             Being a stakeholder in a project while also being a new team member, this combination can also bring in good ideas.
                             <div class="date">08:36:40 on 15 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            We think emotionally first rationally later.
-                            <div class="date">17:22:50 on 14 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Parvathi_G</span>
-                            😆😆🙆
-                            <div class="date">16:36:33 on 14 Feb 2023</div>
                         </div>
                     </section>
                 </div>
