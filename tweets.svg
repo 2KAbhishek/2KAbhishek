@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="234" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,12 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@LGUG2Z</span>
+                            <span class="mention">@ThePrimeagen</span>
+                            I'll make one now for sure, keep an eye on the channel for updates!
+                            <div class="date">03:24:23 on 25 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
                             Foreshadowing failure is the best way to get motivated about goal pursuit.
                             <div class="date">15:47:57 on 24 Feb 2023</div>
                         </div>
@@ -31,10 +37,6 @@
                             <span class="mention">@appwrite</span>
                             Yes it is!
                             <div class="date">08:12:37 on 24 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            If you can write down a problem *clearly*, it's half solved.
-                            <div class="date">19:36:23 on 23 Feb 2023</div>
                         </div>
                     </section>
                 </div>
