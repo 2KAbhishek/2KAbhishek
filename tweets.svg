@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="317" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="417" class="">
     <defs>
         <style/>
     </defs>
@@ -23,6 +23,19 @@
                         </div>
                         <div class="tweet">
                             <span class="mention">@ThePrimeagen</span>
+                            So true, although I have a triple monitor rig, I tend to run single monitor mode when doing focus work.
+                            <br />
+                            <br />
+                            And yes having good window management is essential for this,
+                            <br />
+                            yabai + skhd on Mac, awesomeWM on Linux, tmux everywhere!
+                            <br />
+                            <br />
+                            Only use multi monitor during streams or creative work.
+                            <div class="date">08:20:03 on 3 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@ThePrimeagen</span>
                             You can also just update the configs for git 2.27+
                             <br />
                             <br />
@@ -38,11 +51,6 @@
                             <br />
                             alias gl="git stash push &amp;&amp; git pull --rebase &amp;&amp; git stash pop"
                             <div class="date">03:28:43 on 3 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@joshmedeski</span>
-                            This looks really useful, I'm gonna try it!
-                            <div class="date">01:26:55 on 2 Mar 2023</div>
                         </div>
                     </section>
                 </div>
