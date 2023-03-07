@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,22 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@lexfridman</span>
+                            Usual suspects of saved file locations:
+                            <br />
+                            - Downloads (duh)
+                            <br />
+                            - Android/media/package_name (sometimes)
+                            <br />
+                            - Android/data/package_name (rarely)
+                            <br />
+                            - Android/data/package_name (almost never)
+                            <br />
+                            <br />
+                            Still better than what iOS does to files
+                            <div class="date">09:24:09 on 7 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@sapanparikh18</span>
                             look what I found 🤭
                             <br />
@@ -31,13 +47,6 @@
                         <div class="tweet">
                             Holi wali chhutti is the real "Holiday" baki sare wannabees hai. 😆
                             <div class="date">13:31:50 on 6 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            Something good that never happened feels WAY worse than something bad that already did.
-                            <br />
-                            <br />
-                            That's how much we linger on regret rather than accepting reality.
-                            <div class="date">11:21:14 on 5 Mar 2023</div>
                         </div>
                     </section>
                 </div>
