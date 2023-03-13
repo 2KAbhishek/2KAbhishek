@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="554" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="519" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,17 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@trashh_dev</span>
+                            The best cat gif ever. 🎤📉
+                            <div class="date">15:59:21 on 13 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
+                            Shine bright like ruby 💎✨👑🛤️
+                            <br />
+                            <a href="https://t.co/3gOQFWptdg" class="link">twitter.com/robbyrussell/s…</a>
+                            <div class="date">15:48:10 on 13 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
                             Sunday motivation 😆
                             <br />
                             cc:
@@ -34,20 +45,6 @@
                                 </div>
                             </div>
                             <div class="date">02:01:42 on 12 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            Had a great conversation with
-                            <span class="mention">@joshmedeski</span>
-                            about tmux + nvim and all things fun, had a great time.
-                            <br />
-                            <br />
-                            Thanks a lot Josh, I'm definitely spending time updating my dots tomorrow ✨
-                            <div class="date">17:25:00 on 11 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@traversymedia</span>
-                            You sir have your priorities figured out! 🙌
-                            <div class="date">15:15:44 on 11 Mar 2023</div>
                         </div>
                     </section>
                 </div>
