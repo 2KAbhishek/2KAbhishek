@@ -142,7 +142,7 @@ Total starred repositories: `196`
   - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites. (⭐️54127)
   - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications. (⭐️18928)
   - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (⭐️9861)
-  - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser. (⭐️19728)
+  - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser. (⭐️19729)
   - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components (⭐️3003)
   - [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki. [Merged into rsapkf/www] (⭐️1902) *Archived!*
   - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings (⭐️164993)
@@ -276,7 +276,7 @@ Total starred repositories: `196`
   - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀 (⭐️14524)
   - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web (⭐️22913)
   - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (⭐️40136)
-  - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (⭐️60633) 
+  - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (⭐️60634) 
 
 **[⬆ back to top](#contents)**
 
@@ -349,7 +349,7 @@ Total starred repositories: `196`
   - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem (⭐️5389)
   - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) (⭐️4722)
   - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️193123)
-  - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (⭐️54103)
+  - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (⭐️54104)
   - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (⭐️271188)
   - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills. (⭐️63066)
   - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.  (⭐️12358) *Archived!*
