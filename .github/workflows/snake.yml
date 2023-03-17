@@ -25,6 +25,7 @@ jobs:
           git config --local user.email "iam2kabhishek@gmail.com"
           git config --local user.name "Abhishek via github-actions"
           git add .
+          git pull --rebase --autostash
           git commit -m "docs: Update Snake Contribution Animation"
       # Push the changes
       - name: Push
