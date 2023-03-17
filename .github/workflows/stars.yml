@@ -1,5 +1,5 @@
 # This workflow builds a list of your starred repositories
-name: Stargazer
+name: Updtate Stars
 
 on:
   schedule:
@@ -23,6 +23,8 @@ jobs:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
           list-file: "stars.md"
+          format: "table"
+          with-back-to-top: true
 
       # Commit the changes
       - name: Commit files
