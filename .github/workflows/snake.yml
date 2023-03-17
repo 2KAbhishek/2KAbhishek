@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/gen/snake.svg?color_snake=#1688f0&color_dots=#a5a5a5,#3dd50a,#ffd11a,#d61006,#1688f0
+            assets/gen/snake.svg?color_snake=#1688f0&color_dots=#272b33,#0e4429,##39d353,#c61006,#1688f0
       # Commit the changes
       - name: Commit files
         run: |
