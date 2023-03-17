@@ -32,7 +32,7 @@
         </kbd>
     </p>
     <a href="https://gitstar-ranking.com/2KAbhishek" title="Snake eats commits!">
-        <img width="500" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/snake.svg" />
+        <img width="700" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/snake.svg" />
     </a>
     <a href="https://gitstar-ranking.com/2KAbhishek" title="GitHub metrics!">
         <img width="500" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/metrics.svg" />
