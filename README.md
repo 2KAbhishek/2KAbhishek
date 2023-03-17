@@ -31,10 +31,10 @@
             </a>
         </kbd>
     </p>
-    <a href="https://gitstar-ranking.com/2KAbhishek" title="Snake eats commits!">
+    <a href="https://2kabhishek.github.io/projects" title="Snake eats commits!">
         <img width="700" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/snake.svg" />
     </a>
-    <a href="https://gitstar-ranking.com/2KAbhishek" title="GitHub metrics!">
+    <a href="https://2kabhishek.github.io/projects" title="GitHub metrics!">
         <img width="500" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/metrics.svg" />
     </a>
     <details>
