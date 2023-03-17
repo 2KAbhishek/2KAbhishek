@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: lowlighter/metrics@latest
       with:
-        filename: tweets.svg
+        filename: assets/gen/tweets.svg      
         token: NOT_NEEDED
         base: ""
         plugin_tweets: yes
