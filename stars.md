@@ -113,7 +113,7 @@ Total starred repositories: `196`
 
 ## HTML
 
-  - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (⭐️43649)
+  - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (⭐️43653)
   - [incubyte/incubyte.github.io](https://github.com/incubyte/incubyte.github.io) - Our blog! ✍🏼 (⭐️2)
   - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️67580) 
 
@@ -191,7 +191,7 @@ Total starred repositories: `196`
 
 ## Markdown
 
-  - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (⭐️114683) 
+  - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (⭐️114684) 
 
 **[⬆ back to top](#contents)**
 
@@ -224,9 +224,9 @@ Total starred repositories: `196`
   - [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim) - Interact with Jupyter from NeoVim. (⭐️447)
   - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All (⭐️43993)
   - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools (⭐️7173)
-  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️214279)
+  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️214280)
   - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming (⭐️7030)
-  - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (⭐️85417)
+  - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (⭐️85418)
   - [jivoi/pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included (⭐️1319)
   - [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state (⭐️963)
   - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support (⭐️8037)
@@ -234,10 +234,10 @@ Total starred repositories: `196`
   - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft (⭐️7323)
   - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples (⭐️6102) *Archived!*
   - [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - StyleGAN2 - Official TensorFlow Implementation (⭐️10277)
-  - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners" (⭐️17790)
+  - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners" (⭐️17792)
   - [p4-team/ctf](https://github.com/p4-team/ctf) - Ctf solutions from p4 team (⭐️1637)
   - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates. (⭐️1636)
-  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (⭐️231206)
+  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (⭐️231207)
   - [python-mario/mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell  (⭐️493)
   - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (⭐️24205)
   - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way. (⭐️3735)
@@ -270,8 +270,8 @@ Total starred repositories: `196`
   - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. (⭐️8780)
   - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (⭐️36611)
   - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output (⭐️16731)
-  - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (⭐️11618)
-  - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust (⭐️9971)
+  - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (⭐️11619)
+  - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust (⭐️9972)
   - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (⭐️5346)
   - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀 (⭐️14524)
   - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web (⭐️22912)
@@ -370,14 +370,14 @@ Total starred repositories: `196`
   - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! (⭐️136465)
   - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (⭐️94411)
   - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. (⭐️50973)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (⭐️244366)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (⭐️244367)
   - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. (⭐️30345)
   - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made. (⭐️1057)
   - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯 (⭐️5030)
   - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers (⭐️64486)
   - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. (⭐️40158)
   - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A. (⭐️9649)
-  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (⭐️92447)
+  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (⭐️92448)
   - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes (⭐️2537) 
 
 **[⬆ back to top](#contents)**
