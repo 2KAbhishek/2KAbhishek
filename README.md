@@ -3,21 +3,21 @@
    <h3> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h3>
    <p> <b>  Software Craftsperson 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 </b> </p>
    <p> I code to make lives easier, to learn and for fun! </p>
-<a href="mailto:iam2kabhishek@gmail.com" target="_blank">Mail </a> 
-| <a href="https://2kabhishek.github.io" target="_blank">Portfolio </a> 
-| <a href="https://2kabhishek.github.io/projects" target="_blank">Projects </a> 
-| <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a> 
-| <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a> 
-| <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a> 
-| <a href="https://www.instagram.com/iam2kabhishek" target="_blank">Instagram </a> 
-| <a href="https://www.youtube.com/2kabhishek" target="_blank">Youtube </a> 
+<a href="mailto:iam2kabhishek@gmail.com" target="_blank">Mail </a>
+| <a href="https://2kabhishek.github.io" target="_blank">Portfolio </a>
+| <a href="https://2kabhishek.github.io/projects" target="_blank">Projects </a>
+| <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
+| <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a>
+| <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a>
+| <a href="https://www.instagram.com/iam2kabhishek" target="_blank">Instagram </a>
+| <a href="https://www.youtube.com/2kabhishek" target="_blank">Youtube </a>
 | <a href="https://2kabhishek.github.io/links" target="_blank">More Links </a>
-   
-![Metrics](github-metrics.svg) ![Tweets](tweets.svg) 
+
+![Metrics](assets/gen/metrics.svg) ![Tweets](assets/gen/tweets.svg)
 
   <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
   <p> <b> 🔥 Keep making noises with your keyboard! 🔥 </b></p>
-  
+
   <details>
     <summary><i> 🪄 Click here for a Magic trick! 🪄 </i></summary>
     <br>
