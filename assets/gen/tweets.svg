@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="267" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="hashtag">#TIL</span>
+                            you can use `rubocop --auto-gen-config` to auto generate a `rubocop-todo.yml` file to skip lint issues you don't want to fix.
+                            <div class="date">06:34:22 on 24 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@ThePrimeagen</span>
                             They don't know how to start the game!
                             <div class="date">18:55:52 on 23 Mar 2023</div>
@@ -30,11 +35,6 @@
                             <span class="hashtag">#TIL</span>
                             git checkout/switch takes a second argument which defines which branch you want to create it off of
                             <div class="date">10:10:38 on 23 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@ThePrimeagen</span>
-                            I like this
-                            <div class="date">15:36:53 on 20 Mar 2023</div>
                         </div>
                     </section>
                 </div>
