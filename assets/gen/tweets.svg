@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="586" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="636" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,17 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            Before a train ride:
+                            <br />
+                            Hi I'm Abhishek
+                            <br />
+                            <br />
+                            After:
+                            <br />
+                            Abhi shake hogaya 😵‍💫
+                            <div class="date">20:43:03 on 25 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
                             Best differentiation between software engineering and programming I've learnt so far:
                             <br />
                             <br />
@@ -42,12 +53,6 @@
                                 </div>
                             </div>
                             <div class="date">11:30:28 on 25 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            Tune in for a fun conversation on personalized development environments!
-                            <br />
-                            <a href="https://t.co/iT6R22eqpc" class="link">twitter.com/joshmedeski/st…</a>
-                            <div class="date">17:33:40 on 24 Mar 2023</div>
                         </div>
                     </section>
                 </div>
