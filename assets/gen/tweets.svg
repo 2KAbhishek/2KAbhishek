@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="536" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="552" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,13 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            Booked a flight ticket and a consecutive train ticket from IRCTC today.
+                            <br />
+                            <br />
+                            I feel like a god now. 🙂
+                            <div class="date">19:03:43 on 2 Apr 2023</div>
+                        </div>
+                        <div class="tweet">
                             March 31st:
                             <br />
                             Unofficial date for tax harvesting for people who don't know about tax harvesting 😆
@@ -39,15 +46,6 @@
                                 </div>
                             </div>
                             <div class="date">07:48:56 on 28 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@github</span>
-                            is down!! 😱
-                            <br />
-                            Maybe
-                            <span class="mention">@GitHub</span>
-                            Copilot is taking over
-                            <div class="date">13:25:34 on 27 Mar 2023</div>
                         </div>
                     </section>
                 </div>
