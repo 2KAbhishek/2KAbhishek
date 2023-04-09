@@ -1,6 +1,5 @@
 <div align="center">
-    <h2> Hello World! </h2>
-    <h3> I'm Abhishek Keshri aka <a href="https://2kabhishek.github.io" target="_blank">2KAbhishek </a> </h3>
+    <h3> <a href="https://2kabhishek.github.io/links" target="_blank">2KAbhishek </a> </h3>
     <p> <b> Software Craftsperson 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 </b> </p>
     <p> I code to make lives easier, to learn and for fun! </p>
     <p align="center">
@@ -45,5 +44,4 @@
         </a>
     </details>
     <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
-    <p> <b> 🔥 Keep making noises with your keyboard! 🔥 </b></p>
 </div>
