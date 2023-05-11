@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="317" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="334" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,13 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            Pehle mail pe inbox 0 karke dopamine spike hota tha.
+                            <br />
+                            <br />
+                            Aajkal insta pe dosto ke bheje saare reels dekh kar hota hai. 🙂👍
+                            <div class="date">19:31:42 on 10 May 2023</div>
+                        </div>
+                        <div class="tweet">
                             Paradox of Dev and QA cycle:
                             <br />
                             Things that take a long time to develop are easier to QA.
@@ -35,10 +42,6 @@
                         <div class="tweet">
                             Once you're in the zone, there's no stopping!
                             <div class="date">08:51:19 on 9 May 2023</div>
-                        </div>
-                        <div class="tweet">
-                            TDD with Rust is fun, extra props for the awesome tooling and awesome neovim integrations!
-                            <div class="date">20:05:27 on 8 May 2023</div>
                         </div>
                     </section>
                 </div>
