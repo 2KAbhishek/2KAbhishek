@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="652" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="569" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@ThePrimeagen</span>
+                            as always: It depends
+                            <div class="date">16:48:09 on 13 May 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@joshmedeski</span>
                             this has the usage of Telekasten we talked about in the last video
                             <div class="date">05:44:57 on 13 May 2023</div>
@@ -43,19 +48,6 @@
                                 </div>
                             </div>
                             <div class="date">05:44:22 on 13 May 2023</div>
-                        </div>
-                        <div class="tweet">
-                            You mean you  follow the RAAS framework while listening too? 😯
-                            <br />
-                            <br />
-                            - Release my agenda
-                            <br />
-                            - Attend to the speaker:
-                            <br />
-                            - Amplify or Echo
-                            <br />
-                            - Summarize
-                            <div class="date">12:49:38 on 12 May 2023</div>
                         </div>
                     </section>
                 </div>
