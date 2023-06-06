@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="367" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,13 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            Apple really made a big deal about widgets 😂
+                            <br />
+                            <br />
+                            Something Android users take for granted since Jellybean or something.
+                            <div class="date">15:53:55 on 6 Jun 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@ThePrimeagen</span>
                             That's pretty common here in India TBH, almost everyone learns DSA in either C++ or Java
                             <div class="date">18:30:15 on 5 Jun 2023</div>
@@ -29,20 +36,6 @@
                         <div class="tweet">
                             Bash scripts are so underrated!
                             <div class="date">23:58:05 on 4 Jun 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@trashh_dev</span>
-                            Have used both extensively for work/personal stuff.
-                            <br />
-                            <br />
-                            A Linux terminal with a tiling window manager is much better than what a mac can offer.
-                            <br />
-                            <br />
-                            Mac wins in terms of device support compatibility and "the ecosystem".
-                            <br />
-                            <br />
-                            If I had to choose: Linux any day 💙
-                            <div class="date">23:55:13 on 4 Jun 2023</div>
                         </div>
                     </section>
                 </div>
