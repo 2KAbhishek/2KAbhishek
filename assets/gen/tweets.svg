@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="334" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,14 @@
                             2kabhishek
                         </div>
                         <div class="tweet">
+                            <span class="mention">@kunalb11</span>
+                            Please do a discussion about how tech culture and technical decision making at CRED vs Zerodha.
+                            <br />
+                            <br />
+                            That will be fascinating to know more about.
+                            <div class="date">13:33:30 on 8 Jun 2023</div>
+                        </div>
+                        <div class="tweet">
                             Apple really made a big deal about widgets 😂
                             <br />
                             <br />
@@ -32,10 +40,6 @@
                             <span class="mention">@ThePrimeagen</span>
                             That's pretty common here in India TBH, almost everyone learns DSA in either C++ or Java
                             <div class="date">18:30:15 on 5 Jun 2023</div>
-                        </div>
-                        <div class="tweet">
-                            Bash scripts are so underrated!
-                            <div class="date">23:58:05 on 4 Jun 2023</div>
                         </div>
                     </section>
                 </div>
