@@ -19,7 +19,7 @@
             <a href="https://www.linkedin.com/in/2kabhishek" target="_blank" title="LinkedIn - 2KAbhishek">
                 <img src="https://img.shields.io/badge/-2KAbhishek-0072b1?style=flat&logo=Linkedin&logoColor=white" />
             </a>
-            <a href="https://www.instagram.com/iam2kabhishek" target="_blank" title="Instagram - iam2KAbhishek">
+            <a href="https://www.instagram.com/iam2KAbhishek" target="_blank" title="Instagram - iam2KAbhishek">
                 <img src="https://img.shields.io/badge/-iam2kabhishek-d8226b?style=flat&logo=instagram&logoColor=white" />
             </a>
             <a href="https://youtube.com/c/2KAbhishek" target="_blank" title="YouTube - 2KAbhishek">
