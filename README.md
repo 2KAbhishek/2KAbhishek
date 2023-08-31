@@ -36,12 +36,6 @@
     <a href="https://2kabhishek.github.io/projects" target="_blank" title="GitHub metrics!">
         <img width="500" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/metrics.svg" />
     </a>
-    <details>
-        <summary><b> Expand for more! </b></summary>
-        <a href="https://twitter.com/2KAbhishek" target="_blank" title="Latest tweets!">
-            <img width="500"
-                src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/tweets.svg" />
-        </a>
-    </details>
+
     <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
 </div>
