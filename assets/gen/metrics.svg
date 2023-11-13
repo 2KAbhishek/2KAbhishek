@@ -26,16 +26,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 358kb of code in 343 edited files across 323 commits over last 13 days</small>
+                <small>estimation from 304kb of code in 273 edited files across 301 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="279.8633257403189" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="279.8633257403189" y="0" width="124.41913439635536" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="404.2824601366743" y="0" width="35.375854214123" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.65831435079724" y="0" width="20.34168564920273" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.6109732376417" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="239.6109732376417" y="0" width="168.52371051042994" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="408.13468374807167" y="0" width="25.94808504929908" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="434.0827687973707" y="0" width="25.917231202629285" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -47,20 +47,20 @@
                                 Shell
                             </div>
                             <small>
-                                <div>393 lines</div>
-                                <div>60.84%</div>
+                                <div>281 lines</div>
+                                <div>52.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Lua
                             </div>
                             <small>
-                                <div>40 lines</div>
-                                <div>7.69%</div>
+                                <div>28 lines</div>
+                                <div>5.64%</div>
                             </small>
                         </div>
                     </section>
@@ -74,19 +74,19 @@
                             </div>
                             <small>
                                 <div>110 lines</div>
-                                <div>27.05%</div>
+                                <div>36.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Lua
+                                Python
                             </div>
                             <small>
-                                <div>29 lines</div>
-                                <div>4.42%</div>
+                                <div>21 lines</div>
+                                <div>5.63%</div>
                             </small>
                         </div>
                     </section>
