@@ -110,17 +110,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 278kb of code in 249 edited files across 153 commits over last 14 days</small>
+                <small>estimation from 252kb of code in 240 edited files across 147 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.2846722915414" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="292.2846722915414" y="0" width="129.72482702832173" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="422.00949931986315" y="0" width="15.782428517843988" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="437.79192783770714" y="0" width="15.06315556379051" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.85508340149767" y="0" width="7.144916598502343" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.5303084950347" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="281.5303084950347" y="0" width="138.04313640626128" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="419.573444901296" y="0" width="16.794440837721513" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="436.36788573901754" y="0" width="16.029046142008706" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.39693188102626" y="0" width="7.603068118973766" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -132,8 +132,8 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>3.77k lines</div>
-                                <div>63.54%</div>
+                                <div>3.44k lines</div>
+                                <div>61.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -145,7 +145,7 @@
                             </div>
                             <small>
                                 <div>157 lines</div>
-                                <div>3.43%</div>
+                                <div>3.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -157,7 +157,7 @@
                             </div>
                             <small>
                                 <div>156 lines</div>
-                                <div>1.55%</div>
+                                <div>1.65%</div>
                             </small>
                         </div>
                     </section>
@@ -171,7 +171,7 @@
                             </div>
                             <small>
                                 <div>2.06k lines</div>
-                                <div>28.2%</div>
+                                <div>30.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -183,7 +183,7 @@
                             </div>
                             <small>
                                 <div>200 lines</div>
-                                <div>3.27%</div>
+                                <div>3.48%</div>
                             </small>
                         </div>
                     </section>
