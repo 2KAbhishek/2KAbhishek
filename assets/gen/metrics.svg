@@ -110,17 +110,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.65mb of code in 3566 edited files across 282 commits over last 14 days</small>
+                <small>estimation from 4.61mb of code in 3831 edited files across 288 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.95734570162574" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="236.95734570162574" y="0" width="195.08286591940848" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="432.04021162103425" y="0" width="20.112528850647173" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="452.1527404716814" y="0" width="5.024187295229983" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.1769277669114" y="0" width="2.823072233088634" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.96117996040132" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="236.96117996040132" y="0" width="195.08602259804363" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="432.04720255844495" y="0" width="20.105410935009104" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="452.15261349345406" y="0" width="5.024268592706413" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.1768820861605" y="0" width="2.823117913839538" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
