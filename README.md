@@ -31,14 +31,11 @@
             </a>
         </kbd>
     </p>
-    <a href="https://2kabhishek.github.io/projects" target="_blank" title="Snake eats commits!">
-        <img width="700" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/snake.svg" />
-    </a>
     <a href="https://2kabhishek.github.io/projects" target="_blank" title="GitHub metrics!">
         <img width="500" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/metrics.svg" />
     </a>
     <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
     <a href="https://www.buymeacoffee.com/2KAbhishek">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=2KAbhishek&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" 
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=2KAbhishek&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
        width="150" height="50" /></a>
 </div>
