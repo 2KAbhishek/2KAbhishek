@@ -14,17 +14,14 @@
             <a href="https://2kabhishek.github.io/blog" target="_blank" title="Blog"><img
                     src="https://img.shields.io/badge/-Blog-ff8800?style=flat&logo=blogger&logoColor=white" />
             </a>
-            <a href="https://twitter.com/2kabhishek" target="_blank" title="Twitter - 2KAbhishek">
-                <img src="https://img.shields.io/badge/-2KAbhishek-00acee?style=flat&logo=Twitter&logoColor=white" />
+            <a href="https://youtube.com/c/2KAbhishek" target="_blank" title="YouTube - 2KAbhishek">
+                <img src="https://img.shields.io/badge/-2KAbhishek-ff0000?style=flat&logo=youtube&logoColor=white" />
             </a>
-            <a href="https://www.linkedin.com/in/2kabhishek" target="_blank" title="LinkedIn - 2KAbhishek">
-                <img src="https://img.shields.io/badge/-2KAbhishek-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+            <a href="https://X.com/2kabhishek" target="_blank" title="Twitter - 2KAbhishek">
+                <img src="https://img.shields.io/badge/-2KAbhishek-00acee?style=flat&logo=X&logoColor=white" />
             </a>
             <a href="https://www.instagram.com/iam2KAbhishek" target="_blank" title="Instagram - iam2KAbhishek">
                 <img src="https://img.shields.io/badge/-iam2kabhishek-d8226b?style=flat&logo=instagram&logoColor=white" />
-            </a>
-            <a href="https://youtube.com/c/2KAbhishek" target="_blank" title="YouTube - 2KAbhishek">
-                <img src="https://img.shields.io/badge/-2KAbhishek-ff0000?style=flat&logo=youtube&logoColor=white" />
             </a>
             <a href="https://2kabhishek.github.io/links" target="_blank" title="More Links">
                 <img src="https://img.shields.io/badge/-More-09b43a?style=flat&logo=linkfire&logoColor=white" />
