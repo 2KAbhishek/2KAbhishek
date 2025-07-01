@@ -97,33 +97,21 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 597kb of code in 424 edited files across 285 commits over last 11 days</small>
+                <small>estimation from 619kb of code in 499 edited files across 277 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.82131476793734" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="147.82131476793734" y="0" width="144.55269789185445" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="292.3740126597918" y="0" width="121.83098632018412" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="414.204998979976" y="0" width="32.614795808419366" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="446.81979478839537" y="0" width="12.64358634719321" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.4633811355886" y="0" width="0.5366188644115036" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.6980867303282" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="257.6980867303282" y="0" width="143.4918597620107" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="401.18994649233895" y="0" width="32.37544352032493" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.56539001266384" y="0" width="13.351131190745114" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.91652120340893" y="0" width="12.550798051362792" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.4673192547717" y="0" width="0.5326807452282347" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>3.49k lines</div>
-                                <div>32.14%</div>
-                            </small>
-                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -132,8 +120,20 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>2.72k lines</div>
-                                <div>26.48%</div>
+                                <div>5.75k lines</div>
+                                <div>56.02%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Go
+                            </div>
+                            <small>
+                                <div>703 lines</div>
+                                <div>7.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -145,7 +145,7 @@
                             </div>
                             <small>
                                 <div>684 lines</div>
-                                <div>2.75%</div>
+                                <div>2.73%</div>
                             </small>
                         </div>
                     </section>
@@ -159,19 +159,19 @@
                             </div>
                             <small>
                                 <div>3.11k lines</div>
-                                <div>31.42%</div>
+                                <div>31.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go
+                                JavaScript
                             </div>
                             <small>
-                                <div>703 lines</div>
-                                <div>7.09%</div>
+                                <div>367 lines</div>
+                                <div>2.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
