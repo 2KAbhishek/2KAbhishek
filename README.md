@@ -2,7 +2,7 @@
     <h3> <a href="https://2kabhishek.github.io/links" target="_blank">2KAbhishek </a> </h3>
     <p> <b> Learner 📚 | Maker 💻 | Explorer 🔎 </b> </p>
     <p> I build systems and tools for developers to get their job done, with a soft spot for the CLI.</p>
-    <p> I code to make lives easier and to make learning more fun! </p>
+    <p> I code to make lives easier and to more fun! </p>
     <p align="center">
         <kbd>
             <a href="mailto:iam2kabhishek@gmail.com" target="_blank" title="Mail">
